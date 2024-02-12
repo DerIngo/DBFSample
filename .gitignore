@@ -4,3 +4,6 @@
 .project
 
 /target/
+
+/src/main/resources/*.dbf
+!/src/main/resources/sample.dbf
